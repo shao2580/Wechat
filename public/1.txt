@@ -1,0 +1,8 @@
+<xml><ToUserName><![CDATA[gh_fa0569ac8e08]]></ToUserName>
+<FromUserName><![CDATA[o-wlG1t_K7-p7t6EKCi8S79kUnxM]]></FromUserName>
+<CreateTime>1559275563</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.shao2580.top/lottery]]></EventKey>
+<MenuId>426064713</MenuId>
+</xml>
